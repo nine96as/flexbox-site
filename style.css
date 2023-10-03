@@ -53,6 +53,7 @@
   width: 80%;
   display: flex;
   justify-content: flex-start;
+  flex-wrap: wrap;
 }
 
 .photo-grid-item {
